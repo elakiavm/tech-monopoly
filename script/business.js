@@ -70,7 +70,7 @@ $(document).ready(function(){
 		}
 
 		// fill info board
-		imageUrl = "http://d1cb7w4cvia6lb.cloudfront.net/featurepreneur/tactsay/tactsay1.1.png";
+		imageUrl = "https://accountabletech.org/wp-content/uploads/Feature-28.png";
 		$('.info_board .banner').css('background-image', 'url(' + imageUrl + ')');
 	}
 
