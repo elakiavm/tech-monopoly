@@ -13,6 +13,9 @@ https://freefrontend.com/css-cards/
 https://www.geeksforgeeks.org/building-a-dice-game-using-javascript/
 
 
+run index.html file
+
+
 ![being of game](start.png)
 
 
